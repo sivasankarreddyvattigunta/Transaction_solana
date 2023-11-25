@@ -1,7 +1,5 @@
 
-# Solana SOL Transfer Example
-
-This is a simple example of how to transfer SOL (Solana's native cryptocurrency) between two accounts using the Solana Web3.js library. The example includes code for generating key pairs, requesting an airdrop of SOL, creating and signing a transaction, and sending the transaction.
+# Solana SOL Transfer
 
 ## Prerequisites
 
