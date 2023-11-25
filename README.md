@@ -46,10 +46,12 @@ Before running this example, ensure you have the following prerequisites:
 
 - Ensure that you're using this code on the Solana Devnet (development network) for testing and learning purposes. Do not use real SOL on a live network without caution.
 
-## License
-
-This code is provided under the [MIT License](LICENSE).
 
 ## Author
 
 [sivasankarreddyvattigunta](https://github.com/sivasankarreddyvattigunta)
+
+## License
+
+This code is provided under the [MIT License](LICENSE).
+
